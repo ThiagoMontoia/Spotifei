@@ -77,7 +77,7 @@ Arquitetura em camadas com:
 
 ---
 
-## 7. Dados de Músicas para Testes
+## 7. Músicas para Testar
 
 | Nome               | Artista         | Gênero       |
 |--------------------|-----------------|--------------|
